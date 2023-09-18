@@ -1,0 +1,18 @@
+---
+object: set
+id: 114885aa-26f2-45a5-822f-376ae5374d63
+code: tsoi
+name: Shadows over Innistrad Tokens
+uri: https://api.scryfall.com/sets/114885aa-26f2-45a5-822f-376ae5374d63
+scryfall_uri: https://scryfall.com/sets/tsoi
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atsoi&unique=prints
+released_at: '2016-04-08'
+set_type: token
+card_count: 20
+parent_set_code: soi
+digital: false
+nonfoil_only: true
+foil_only: false
+block_code: soi
+block: Shadows over Innistrad
+icon_svg_uri: https://svgs.scryfall.io/sets/soi.svg?1694404800
